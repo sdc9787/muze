@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Tours - Enthusiast",
+    "artist": "Tours",
+    "album": "Enthusiast",
+    "audio": "/music/audio/Tours - Enthusiast.mp3",
+    "cover": "/music/cover/Tours - Enthusiast.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 2,
+    "title": "The Kyoto Connection - Hachiko (The Faithtful Dog)",
+    "artist": "The Kyoto Connection",
+    "album": "Hachiko (The Faithtful Dog)",
+    "audio": "/music/audio/The Kyoto Connection - Hachiko (The Faithtful Dog).mp3",
+    "cover": "/music/cover/The Kyoto Connection - Hachiko (The Faithtful Dog).png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 3,
+    "title": "Podington Bear - Starling",
+    "artist": "Podington Bear",
+    "album": "Starling",
+    "audio": "/music/audio/Podington Bear - Starling.mp3",
+    "cover": "/music/cover/Podington Bear - Starling.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 4,
+    "title": "Kai Engel - Moonlight Reprise",
+    "artist": "Kai Engel",
+    "album": "Moonlight Reprise",
+    "audio": "/music/audio/Kai Engel - Moonlight Reprise.mp3",
+    "cover": "/music/cover/Kai Engel - Moonlight Reprise.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 5,
+    "title": "Dan Lerch - O Tannenbaum",
+    "artist": "Dan Lerch",
+    "album": "O Tannenbaum",
+    "audio": "/music/audio/Dan Lerch - O Tannenbaum.mp3",
+    "cover": "/music/cover/Dan Lerch - O Tannenbaum.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 6,
+    "title": "Chad Crouch - Algorithms",
+    "artist": "Chad Crouch",
+    "album": "Algorithms",
+    "audio": "/music/audio/Chad Crouch - Algorithms.mp3",
+    "cover": "/music/cover/Chad Crouch - Algorithms.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 7,
+    "title": "Broke For Free - Night Owl",
+    "artist": "Broke For Free",
+    "album": "Night Owl",
+    "audio": "/music/audio/Broke For Free - Night Owl.mp3",
+    "cover": "/music/cover/Broke For Free - Night Owl.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  },
+  {
+    "id": 8,
+    "title": "BoxCat Games - Epic Song",
+    "artist": "BoxCat Games",
+    "album": "Epic Song",
+    "audio": "/music/audio/BoxCat Games - Epic Song.mp3",
+    "cover": "/music/cover/BoxCat Games - Epic Song.png",
+    "url": "https://www.youtube.com/watch?v=2z4v0g1j8aM"
+  }
+]
